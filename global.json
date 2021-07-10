@@ -6,8 +6,5 @@
         "ContosoUniversity.Api.Tests",
         "ContosoUniversity.Data",
         "ContosoUniversity.Data.Tests"
-    ],
-    "sdk": {
-        "version": "2.1.300"
-    }
+    ]
 }
